@@ -20,6 +20,9 @@
   <p>
   
     <?php include 'TEST.php' ;?>
+    <?php
+    echo "Hello World!";
+    ?>
   
 </body>
 
